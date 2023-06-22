@@ -6,5 +6,6 @@ const joke3 = ("How does the moon cut his hair? Eclipse it.");
 
 const template = `
     <section>
+        <h1 class="header">My Jokes</h1>
     </section>
 `
