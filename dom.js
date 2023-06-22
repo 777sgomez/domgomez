@@ -17,3 +17,4 @@ const template = `
 main.innerHTML = template;
 
 const body = document.querySelector('body');
+const p = document.createElement('p');
