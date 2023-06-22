@@ -15,3 +15,5 @@ const template = `
     </section>
 `;
 main.innerHTML = template;
+
+const body = document.querySelector('body');
