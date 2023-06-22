@@ -14,3 +14,4 @@ const template = `
         </ul>
     </section>
 `;
+main.innerHTML = template;
